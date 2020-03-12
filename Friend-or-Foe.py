@@ -10,10 +10,11 @@ i.e.
 
 
 def friend():
-    my_friends = ["Ryan", "Kieran", "Mark"]
+
+    my_friends = ['P', 'pO', 'nIv', 'E0pW']
     real_friend = []
     for i in range(len(my_friends)):
-        if len(my_friends[i]) <= 4:
+        if len(my_friends[i]) == 4:
             real_friend.append(my_friends[i])
     return real_friend
 

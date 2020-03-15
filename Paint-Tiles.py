@@ -1,3 +1,11 @@
+"""
+
+if you want to read detail 
+
+https://www.codewars.com/kata/5e297e9f63f1db003317cbac
+
+
+"""
 costs1 = [[1, 3, 4, 5],
           [2, 3, 2, 3],
           [3, 1, 4, 1],
@@ -9,10 +17,6 @@ costs2 = [[2, 10, 4, 1],
           [9, 7, 6, 10],
           [4, 2, 7, 10],
           [9, 4, 1, 5]]
-#print(costs1[i][j],end=' ')
-# 1 3 4 5 2 3 2 3 3 1 4 1 2 3 1 3
-#print(costs1[i],end=' ')
-#[1, 3, 4, 5] [2, 3, 2, 3] [3, 1, 4, 1] [2, 3, 1, 3]
 
 
 def paint_tiles(costs):

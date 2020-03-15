@@ -29,7 +29,6 @@ def spin_words(sentence):
 print(spin_words('Hey fellow warriors'))
 print(spin_words('Welcome'))
 print(spin_words('This is another test'))
-print(spin_words(
-    'gnirts more is is words when one dessap gnirts but more will noitcnuf than five tneserp'))
+print(spin_words('gnirts more is is words when one dessap gnirts but more will noitcnuf than five tneserp'))
 
 # should equal 'gnirts more is is sdrow when one dessap gnirts but more will noitcnuf than five tneserp'
